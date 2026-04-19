@@ -14,6 +14,7 @@ A full-stack e-commerce platform built with Spring Boot and React.
 - Product image upload (URL or file)
 
 ## Project Structure
+```
 project/
 ├── backend/                  ← Spring Boot
 │   └── src/main/java/com/ecommerce/backend/
@@ -36,7 +37,7 @@ project/
             ├── customer/     (Cart, Orders)
             ├── vendor/       (VendorDashboard)
             └── admin/        (AdminDashboard)
-
+```
 ## Setup Instructions
 
 ### Backend
