@@ -65,3 +65,8 @@ VALUES (
 );
 -- Password is: password123
 ```
+
+## Author
+- Name: Adarsh Kumar
+- Roll: 2329001
+- Batch/Program: B.Tech in Computer Science and Communication Engineering (CSCE)
